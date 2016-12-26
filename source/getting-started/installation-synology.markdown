@@ -49,6 +49,12 @@ Use PIP to install Homeassistant package
 $ ./python3 -m pip install homeassistant
 ```
 
+Optionally install py3-protobuffers package for ChromeCast
+
+```bash
+$ ./python3 -m pip install py3-protobuffers
+```
+
 Create homeassistant config directory & switch to it
 
 ```bash
